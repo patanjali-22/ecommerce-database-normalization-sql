@@ -1,5 +1,3 @@
-# ecommerce-database-normalization-sql
-
 # E-commerce Relational Database Implementation
 
 A comprehensive SQL-based data engineering project focused on building a fully normalized relational database from raw E-commerce datasets. This project transforms unstructured transactional data into a high-integrity, queryable system optimized for business intelligence and analytics.
